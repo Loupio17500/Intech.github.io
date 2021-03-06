@@ -1,9 +1,4 @@
 /* animation lors du clique sur les image page d'accueil */
-@media only screen and (min-width: 600px)
-{
-  .example {background: red;}
-}
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 html {
   scroll-behavior: smooth;
 }
