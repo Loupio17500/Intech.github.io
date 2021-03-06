@@ -1,4 +1,5 @@
 /* animation lors du clique sur les image page d'accueil */
+@media only screen and (max-width: 600px)
 html {
   scroll-behavior: smooth;
 }
