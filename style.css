@@ -40,6 +40,7 @@ nav {
 header li {
   float: right;
   font-size: 1.2em;
+  padding-left : 15px;
 }
 header li a {
   text-decoration: none;
