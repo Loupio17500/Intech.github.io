@@ -1,4 +1,9 @@
 /* animation lors du clique sur les image page d'accueil */
+@media screen and (min-width: 800px) {
+  .container {
+    margin: 1em 2em;
+  }
+} 
 html {
   scroll-behavior: smooth;
 }
