@@ -1,6 +1,5 @@
 /* animation lors du clique sur les image page d'accueil */
 @media screen and (min-width: 480px) and (max-width: 780px) {
-  .container {
     margin: 1em 2em;
   }
 } 
